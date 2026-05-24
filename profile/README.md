@@ -7,3 +7,7 @@ We engineer the agentic systems that translate business ambiguity into auditable
 ### Open Source
 
 - **[10-pass-protocol](https://github.com/hlbrt-consulting/10-pass-protocol)** — A production-tested adversarial code review protocol for AI-assisted development. Loop-until-clean enforcement. Hub verification. Override detection.
+
+### Maintainers
+
+- [@jpp75-cc](https://github.com/jpp75-cc) — founder, principal engineer
