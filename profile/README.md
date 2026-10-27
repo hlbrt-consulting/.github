@@ -1,8 +1,8 @@
-## HLBRT Consulting
+## HLBRT
 
-**Decoupling strategic rigor from human overhead.**
+**Your deal accelerator. Built for investors.**
 
-We engineer the agentic systems that translate business ambiguity into auditable pipelines — board-grade strategy at sub-linear cost.
+HLBRT provides AI-powered due diligence and growth strategy for private equity teams and family offices. Our senior team frames the questions, challenges the findings and turns the analysis into recommendations investment teams can act on.
 
 ### Open Source
 
@@ -10,4 +10,4 @@ We engineer the agentic systems that translate business ambiguity into auditable
 
 ### Maintainers
 
-- [@jpp75-cc](https://github.com/jpp75-cc) — founder, principal engineer
+- [@jpp75-cc](https://github.com/jpp75-cc) — co-founder and Managing Director
